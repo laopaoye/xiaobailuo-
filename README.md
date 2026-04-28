@@ -1,7 +1,7 @@
 # xiaobailuo-
 一个面向AI漫剧、真人剧、影视商业片制作的全功能AI工具。
 # 🐚 小白螺 (xiaobailuo.yoloqu.com)
-[演示](xiaobailuo.yoloqu.com)
+[演示](https://xiaobailuo.yoloqu.com)
 
 > AI漫剧 · 真人剧 · 影视商业片 一站式智能制作工具
 
